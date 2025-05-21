@@ -1,0 +1,59 @@
+{
+  "short_name": "Love & Care",
+  "name": "Love & Care LLC | Cleaning & Janitorial Services – Dayton, OH",
+  "icons": [
+    {
+      "src": "./bizSolutions-icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./bizSolutions-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./bizSolutions-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./bizSolutions-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4B5563",
+  "background_color": "#ffffff",
+  "description": "Love & Care LLC provides residential and commercial cleaning and janitorial services throughout Dayton, OH. Compassionate, detailed, and professional cleaning solutions.",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "shortcuts": [
+    {
+      "name": "View Services",
+      "short_name": "Services",
+      "description": "Explore our cleaning and janitorial services.",
+      "url": "/#services"
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Call or email Love & Care LLC.",
+      "url": "/#contact"
+    }
+  ],
+  "categories": [
+    "cleaning",
+    "janitorial",
+    "home-services",
+    "business-services"
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://loveandcareclean.com/"
+    }
+  ]
+}
